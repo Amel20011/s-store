@@ -1,0 +1,19 @@
+[
+  {
+    "id": "ORD001",
+    "customerName": "Contoh Customer",
+    "customerPhone": "+628123456789",
+    "products": [
+      {
+        "name": "Nasi Goreng Spesial",
+        "quantity": 2,
+        "price": 25000
+      }
+    ],
+    "total": 50000,
+    "status": "completed",
+    "paymentMethod": "transfer",
+    "orderDate": "2024-01-15T10:30:00Z",
+    "completedDate": "2024-01-15T12:00:00Z"
+  }
+]
